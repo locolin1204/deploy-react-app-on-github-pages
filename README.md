@@ -12,7 +12,7 @@ git push -u origin main
 > <br>
 > Therefore, please change your directory to your react-app in terminal before performing any commands.
 
-### Step 1
+### <a name="step-1"></a> Step 1
 Go to `package.json` in the your react-app, and add the following new key value pair.
 ```
 "homepage": "https://[USERNAME].github.io/[YOUR-REPO-NAME]"
@@ -43,7 +43,7 @@ npm run deploy
 ### Conclusion
 Congratulations! You have successfully deployed your React App on GitHub Pages!
 <br>
-Now your repository should have a new branch called `gh-pages` and you can access your React App via the URL in Step 1!
+Now your repository should have a new branch called `gh-pages` and you can access your React App via the URL in __[Step 1](#step-1)__!
 
 Access via `https://[USERNAME].github.io/[YOUR-REPO-NAME]`
 
