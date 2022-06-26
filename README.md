@@ -37,10 +37,12 @@ Go to `package.json` in the your react-app again, and add the following new key 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/69583542/175572241-549c1543-7c87-4146-a3e5-53977a2d9b1c.png">
 
 ### Step 4
-Go to terminal and run the following command to deploy your react-app on GitHub Pages.
+Go to terminal and run the following command to deploy your react-app on GitHub Pages. 
 ```
 npm run deploy
 ```
+Also, if you made any changes and would like to publish the changes, you can run this command to update the changes!
+
 ### Conclusion
 Congratulations! You have successfully deployed your React App on GitHub Pages!
 <br>
