@@ -2,6 +2,7 @@
 
 Push your code to GitHub first!
 ```
+git init
 git remote add origin [YOUR-REPO-LINK]
 git add -A
 git commit -m "Initial commit"
